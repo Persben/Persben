@@ -12,5 +12,3 @@ Hi there... My name is ✨𝗣𝗲𝗿𝘀𝗯𝗲𝗻✨
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://www.lua.org/images/luaa.gif" alt="bash" width="45" height="45"/>
 </p>
-
-![Snake animation](https://github.com/Persben/Persben/blob/output/github-contribution-grid-snake.svg)
