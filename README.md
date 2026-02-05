@@ -13,4 +13,14 @@ Hi there... My name is ✨𝗣𝗲𝗿𝘀𝗯𝗲𝗻✨
 <img src="https://www.lua.org/images/luaa.gif" alt="bash" width="45" height="45"/>
 </p>
 
-[![Persbens GitHub stats](https://github-readme-stats.vercel.app/api?username=Persben)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Persben&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Persben&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Persben&show_icons=true" />
+</picture>
